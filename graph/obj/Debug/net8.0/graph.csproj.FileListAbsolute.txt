@@ -1,0 +1,28 @@
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.AssemblyInfoInputs.cache
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.AssemblyInfo.cs
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Vanessche\Bureau\graph\graph\bin\Debug\net8.0\graph.exe
+C:\Users\Lucas Vanessche\Bureau\graph\graph\bin\Debug\net8.0\graph.deps.json
+C:\Users\Lucas Vanessche\Bureau\graph\graph\bin\Debug\net8.0\graph.runtimeconfig.json
+C:\Users\Lucas Vanessche\Bureau\graph\graph\bin\Debug\net8.0\graph.dll
+C:\Users\Lucas Vanessche\Bureau\graph\graph\bin\Debug\net8.0\graph.pdb
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.dll
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\refint\graph.dll
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.pdb
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\graph.genruntimeconfig.cache
+C:\Users\Lucas Vanessche\Bureau\graph\graph\obj\Debug\net8.0\ref\graph.dll
+C:\Project\C#\ORM\graph\graph\bin\Debug\net8.0\graph.exe
+C:\Project\C#\ORM\graph\graph\bin\Debug\net8.0\graph.deps.json
+C:\Project\C#\ORM\graph\graph\bin\Debug\net8.0\graph.runtimeconfig.json
+C:\Project\C#\ORM\graph\graph\bin\Debug\net8.0\graph.dll
+C:\Project\C#\ORM\graph\graph\bin\Debug\net8.0\graph.pdb
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.AssemblyInfoInputs.cache
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.AssemblyInfo.cs
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.csproj.CoreCompileInputs.cache
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.dll
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\refint\graph.dll
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.pdb
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\graph.genruntimeconfig.cache
+C:\Project\C#\ORM\graph\graph\obj\Debug\net8.0\ref\graph.dll
