@@ -1,10 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Description>Une bibliothèque de graphes générique pour .NET</Description>
+    <Authors>Votre Nom</Authors>
+    <PackageId>GraphLibrary</PackageId>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
