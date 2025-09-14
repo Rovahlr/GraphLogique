@@ -1,13 +1,7 @@
 # Build results
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
+graph/bin/
+graph/obj/
+graph/.cursor/
 
 # Visual Studio cache/options
 .vs/
@@ -17,7 +11,7 @@ x86/
 *.sln.docstates
 
 # Rider / JetBrains
-.idea/
+graph/.idea/
 *.sln.iml
 
 # OS generated files
@@ -25,16 +19,15 @@ x86/
 Thumbs.db
 
 # NuGet
-*.nupkg
-*.snupkg
-*.nuspec
-packages/
-# except build/ if you have custom build scripts
-!packages/build/
+graph/*.nupkg
+graph/*.snupkg
+graph/*.nuspec
+graph/packages/
+!graph/packages/build/
 
 # Test results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+graph/*[Tt]est[Rr]esult*/
+graph/*[Bb]uild[Ll]og.*
 
 # Coverage
 *.coverage
@@ -42,14 +35,11 @@ packages/
 
 # Publish
 *.Publish.xml
-publish/
+graph/publish/
 
 # Azure Functions local settings
-local.settings.json
+graph/local.settings.json
 
 # dotenv files
 .env
 .env.*
-
-#cursor
-.cursor
